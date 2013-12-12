@@ -1,0 +1,22 @@
+body{
+	background-color:#b5000c;
+}
+
+#login{
+	margin:100px auto 0px auto;
+	color:#fff;
+	width : 550px;
+	height:400px;
+}
+
+#user{
+	background-color:#535353;
+	padding:10px;
+	margin-bottom:15px;
+}
+
+#admin{
+	background-color:#94000a;
+	padding:10px;
+	margin-bottom:15px;
+}
